@@ -1,6 +1,6 @@
 # Lab 8 - Starter
 Self 
-
+https://y1qu.github.io/Lab8_Starter/
 1) Where would you fit your automated tests in your Recipe project development pipeline? Select one of the following and explain why.
 
 Within a Github action that runs whenever code is pushed because in this way we can detect errors right after the code pushed so we can locate the block of code updated that cause the error and fixed it immediately.
